@@ -1,1 +1,2 @@
 # QMIND_TweetStock
+# This code was used to scrape historical tweets without using the twitter API, clean that dataset by removing symbols, links, etc. from the tweets, sentiment analyzing the tweets and then running them through different machine learning alogrithms to determine what effect they have on a dataset of financial data. The goal of this project was to determine the effect public sentiment has on the direction of a company's stock. 
